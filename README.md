@@ -1,5 +1,10 @@
-## Template for a very compact LaTeX Cheatsheet
+# Template for a very compact LaTeX Cheatsheet
 
-![page 1](https://i.stack.imgur.com/jEcrv.png)
+## Prerequsites
+1. Install tex compiler
+2. If you are using VSCode, add the pulgin for latex.
 
-![page 2](https://i.stack.imgur.com/jq4dI.png)
+## How to use
+1. crate a tex file in contents.
+2. add the filename you created to the `main.tex`
+3. compile and generate your PDF file.
