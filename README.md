@@ -8,3 +8,6 @@
 1. crate a tex file in contents.
 2. add the filename you created to the `main.tex`
 3. compile and generate your PDF file.
+
+## Cautions
+- Chinese characters are not supported now.
